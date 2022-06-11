@@ -1,6 +1,6 @@
 ## Olá Mundo! 🌍
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/edgardhenriqu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edgardhenriqu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edgardhenriqu&layout=compact&langs_count=7&theme=tokyonight"/>
